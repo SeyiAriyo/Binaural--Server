@@ -33,10 +33,10 @@ https://binaural-client.vercel.app/
 https://intense-mesa-95345.herokuapp.com
 
 ### Client Repo
-https://github.com/SeyiAriyo/binaural-client
+https://github.com/SeyiAriyo/binaural--client
 
 ### Server Repo
-https://github.com/SeyiAriyo/binaural-server
+https://github.com/SeyiAriyo/binaural--server
 
 ## Technology
 
